@@ -22,7 +22,6 @@ int main(void)
 			putchar(s);
 			t++;
 		}
-	putchar('\n');
 	return (0);
 }
 
