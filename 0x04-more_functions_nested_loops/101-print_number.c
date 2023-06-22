@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_number - print number
+ * print_number - prints an integer
  *
- * @n: params an integer
+ * @n: integer to be printed
  *
  * No return
  */
